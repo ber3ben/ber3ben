@@ -1,4 +1,12 @@
-## Hi there 👋
+## hi! I'm bernie
+
+My work focuses on libraries, metadata systems, and ethical questions about technology.
+
+I'm interested in: 
+- AI-assisted systems in libraries and archives
+  - classifications and misclassifications
+    - queer archives and digital history
+      - responsible use of automation in knowledge work
 
 <!--
 **ber3ben/ber3ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
